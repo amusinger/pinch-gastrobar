@@ -1,2 +1,1 @@
 myFolderToIgnore/
-MyREADME.txt
